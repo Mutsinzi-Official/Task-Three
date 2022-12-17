@@ -1,0 +1,50 @@
+.container1 {
+  background-color: lightgray;
+  width: 100%;
+  height: 100px;
+}
+
+.container2 {
+  width: 100%;
+  height: 50px;
+}
+
+.container3 {
+  width: 100%;
+  height: 200px;
+}
+
+.container4 {
+  overflow: hidden; /* Clear the float */
+  width: 100%;
+  height: 800px;
+}
+
+.column {
+  float: left;
+  height: 100%;
+  width: 50%; /* Set the width of the columns to 50% */
+}
+
+.avatar {
+  float: left;
+  height: 100px;
+  width : 100px;
+  border-radius: 50%;
+  margin-right: 10px; /* Add some space between the avatar and the text */
+}
+
+.text {
+  overflow: hidden; /* Clear the float */
+}
+
+.container5 {
+  width: 100%;
+  height: 200px;
+}
+
+.container6 {
+  background-color: lightgray;
+  width: 100%;
+  height: 50px;
+}
